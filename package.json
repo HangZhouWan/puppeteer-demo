@@ -1,0 +1,14 @@
+{
+  "name": "jest-puppeteer-demo",
+  "version": "1.0.0",
+  "description": "A demo project for jest-puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jest-puppeteer": "^11.0.0",
+    "puppeteer": "^24.32.1"
+  }
+}
